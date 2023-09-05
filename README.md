@@ -43,7 +43,7 @@ Add `llmfarm_core` to your project using Xcode (File > Add Packages...) or by ad
 
 ```swift
 dependencies: [
-  .package(url: "https://github.com/guinmoon/llmfarm_core.swift")
+  .package(url: "https://github.com/truongthanh96/llmfarm_core.swift")
 ]
 ```
 
